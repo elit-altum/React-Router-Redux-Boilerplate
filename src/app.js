@@ -27,7 +27,7 @@ const renderApp = ( name = '') => {
   if(!hasRendered) {
     const jsx = (
       <Provider store={store}>
-        {/* For showing user name on summary. Chains to ExpenseSummary component */}
+        {/* For showing user name on summary. Chains to Summary component */}
         <AppRouter name={name} />
       </Provider>
     );
