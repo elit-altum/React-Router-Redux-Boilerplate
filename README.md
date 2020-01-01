@@ -1,12 +1,18 @@
-# Expensify-App
-One stop app for all your expenses!
-Login with your Google account and get started.
+# React-Router-Redux BoilerPlate
+A simple boilerplate for full stack React applications.
 
-### Live demo : https://elit-altum-expensify.herokuapp.com
+## Dev
+- Package management by Yarn.
+- React router for client side routing.
+- Redux and Redux-Thunk for complex state management.
+- Firebase and OAuth for authentication.
+- All storage on the firebase realtime database.
+- Ready for heroku deployment.
 
-### Dev
-- Built using ReactJS, Redux, React-Router and Redux-Thunk
-- Package management by yarn
-- Uses express for local server
+## Styles
+- Built-in scss files for standard styles.
+- Built-in Header and Login components.
+
+
 
 
